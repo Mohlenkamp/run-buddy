@@ -1,2 +1,14 @@
-Just using the "main" branch for this project at this time.
-Later, we *may* change and add a DEV branch structure.
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://mohlenkamp.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by JohnM
